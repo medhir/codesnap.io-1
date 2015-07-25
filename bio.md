@@ -1,1 +1,1 @@
-Write your bio here.  It will show up on your profile page.
+I am currently a student at Hack Reactor exploring software engineering positions.  I have strong experience with Javascript and have worked with Python as well.
