@@ -1,7 +1,7 @@
 
 ---
 title: JavaScript Instantiation Patterns
-tags: Javascript, Angular, Backbone, Bookshelf.js
+tags: Javascript
 ---
 
 JavaScript lacks an explicit class constructor and, as a result, developers must rely upon other techniques for building classes. There are four commonly found instantiation patterns that can be used for constructing class objects. In this post I illustrate each instantiation pattern and discuss the pros and cons.
